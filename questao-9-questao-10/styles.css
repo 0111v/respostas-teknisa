@@ -1,0 +1,12 @@
+#colorBtn {
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.vermelho { background-color: red; }
+.verde { background-color: green; }
+.azul { background-color: blue; }
+

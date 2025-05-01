@@ -1,0 +1,16 @@
+Início
+
+a ← 0
+b ← 1
+
+Escreva a
+Escreva b
+
+Para i de 3 até 10 faça
+    proximo ← a + b
+    Escreva proximo
+    a ← b
+    b ← proximo
+FimPara
+
+Fim

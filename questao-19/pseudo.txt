@@ -1,0 +1,11 @@
+Início
+
+Leia número
+
+Se (número % 2 == 0) então
+    Escreva "Par"
+Senão
+    Escreva "Ímpar"
+FimSe
+
+Fim
